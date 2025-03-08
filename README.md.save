@@ -1,0 +1,27 @@
+# Évaluation d'Actifs Financiers 🏦📊
+
+Ce projet a été réalisé dans le cadre du cours d'**Analyse d'Actifs Financiers** du M1 ECAP. Il vise à analyser la performance de 9 titres boursiers de clubs de football en appliquant diverses méthodes financières.
+
+## 📌 Objectifs du projet
+- 📉 Étudier la rentabilité et le risque des actifs financiers sélectionnés.
+- 📊 Utiliser des méthodes d'optimisation de portefeuille (`fPortfolio`).
+- 🔍 Analyser les performances en fonction des facteurs de marché.
+
+## 📂 Structure du projet
+- `data/` : Contient les données financières utilisées.
+- `scripts/` : Scripts R pour le traitement et l'analyse des données.
+- `results/` : Résultats des analyses et graphiques.
+
+## 🚀 Installation et Utilisation
+1. **Cloner le dépôt** :
+   ```sh
+   git clone git@github.com:Felixsabiron/Evaluation_d_actifs_financiers.git
+   cd Evaluation_d_actifs_financiers
+
+
+
+
+
+
+
+
