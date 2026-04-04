@@ -87,7 +87,7 @@ The project included several portfolio and asset performance indicators such as:
 
 The full academic report is available in **French**.
 
-**Access the full report (French):** [Click here]([https://drive.google.com/drive/u/0/folders/11D0kcX7RXt6IrpOiD8jGu5PV2u3A5Ilp])
+**Access the full report (in French):** [Click here](https://drive.google.com/drive/u/0/folders/11D0kcX7RXt6IrpOiD8jGu5PV2u3A5Ilp)
 
 ## Note
 
