@@ -1,5 +1,7 @@
 # Financial Asset Valuation in R
 
+🇫🇷 [Version française](README_FR.md)
+
 This project was carried out as part of the **Financial Asset Analysis** course in the **M1 ECAP program**.
 
 Its objective was to analyze and compare the performance of **10 financial assets**, including **9 publicly listed football clubs** and **Solana (SOL-USD)** as a benchmark/reference asset, using portfolio management and financial risk analysis methods in **R**.
@@ -80,7 +82,8 @@ The project included several portfolio and asset performance indicators such as:
 ## Repository Structure
 
 - `Code_du_Projet.R` — main R script containing the full analysis
-- `README.md` — project presentation
+- `README.md` — English project presentation
+- `README_FR.md` — French project presentation
 - `Evaluation_Actifs_Financiers.Rproj` — R project file
 
 ## Academic Report
@@ -92,3 +95,4 @@ The full academic report is available in **French**.
 ## Note
 
 Although the detailed academic report is written in French, this repository provides an **English overview** of the project, methodology, and main techniques used.
+```
